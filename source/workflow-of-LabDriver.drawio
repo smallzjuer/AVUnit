@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T16:42:10.423Z" agent="5.0 (Windows)" etag="CUp8gEPT1c8gEBqcU7dE" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T16:42:31.936Z" agent="5.0 (Windows)" etag="D6iOzryElVP7SwuWmmNK" version="16.2.7" type="github">
   <diagram id="DhF0_wdm7kW2o_CkX-2b" name="Page-1">
     <mxGraphModel dx="942" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="348" y="429.5" width="28" height="29" as="geometry" />
         </mxCell>
         <mxCell id="bz9Mvd529WpSVVnzT8PL-34" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/VPNGateway.svg;fillColor=#CCCCCC;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="553" y="370" width="30" height="30" as="geometry" />
+          <mxGeometry x="551" y="370" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bz9Mvd529WpSVVnzT8PL-35" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/VPNConnection.svg;fillColor=#CCCCCC;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="553" y="463.75" width="30.75" height="30.75" as="geometry" />
